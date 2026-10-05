@@ -1,0 +1,6 @@
+[submodule "Lab4"]
+	path = Lab4
+	url = https://github.com/LokiMATI/ISRPO-LabWork4.git
+[submodule "Lab3"]
+	path = Lab3
+	url = https://github.com/Zwizone/Lab_3.git
